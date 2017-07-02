@@ -1,0 +1,22 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.content {
+	position: relative;
+}
+.box {
+	padding: 5px;
+	float: left;
+}
+.box_img {
+	padding: 5px;
+	border: 1px solid #cccccc;
+	box-shadow: 0 0 5px solid #CCCCCC;
+	border-radius: 5px;
+}
+.box_img img {
+	width: 150px;
+	vertical-align: top;
+	height: auto;
+}
